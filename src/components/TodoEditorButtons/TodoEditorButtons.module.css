@@ -1,0 +1,9 @@
+.TodoEditorButtons {
+    width: 50%;
+    margin: 1rem auto 0 auto;
+    font-size: 2rem;
+}
+
+.TodoEditorButtonsIcon {
+    font-size: 2rem;
+}

@@ -1,0 +1,13 @@
+.TodoItem {
+    background: #fff;
+    list-style: none;
+    padding: .4rem;
+    border-radius: .4rem;
+    margin-top: .5rem;
+    display: grid;
+    grid-template-columns: 1fr 55px;
+}
+
+.TodoItemText {
+    word-break: break-word;
+}

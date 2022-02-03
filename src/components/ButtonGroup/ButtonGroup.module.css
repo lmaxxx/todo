@@ -1,0 +1,5 @@
+.ButtonGroup {
+    display: flex;
+    align-self: start;
+    justify-content: space-between;
+}

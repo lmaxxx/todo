@@ -1,0 +1,16 @@
+.Title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.TitleText {
+    text-align: center;
+    font-size: 1.4rem;
+    color: #fff;
+    margin-right: 1rem;
+}
+
+.TitleLogo {
+    width: 110px;
+}

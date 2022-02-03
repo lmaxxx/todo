@@ -1,0 +1,28 @@
+.TodoEditor {
+    max-width: 400px;
+    width: 90%;
+}
+
+.TodoEditorForm {
+    background: #fff;
+    margin-top: 1rem;
+    padding: .4rem;
+    border-radius: .4rem;
+}
+
+.TodoEditorTitle {
+    text-align: center;
+    color: #fff;
+    font-size: 2rem;
+}
+
+.TodoEditorTextarea {
+    resize: none;
+    font-family: 'Roboto Mono', monospace;
+    border-radius: .4rem;
+    border: 1px solid #BFE6BA;
+    font-size: 1rem;
+    padding: .5rem;
+    width: 100%;
+    height: 100px;
+}
